@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Syllabus - Intro to Data Science</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Course Syllabus</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="syllabus.html">Syllabus</a></li>
+        <li><a href="resources.html">Resources</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Four-Month Curriculum</h2>
+      <h3>Month 1: Python for Data Science</h3>
+      <p>Learn Python programming, Jupyter Notebooks, Pandas, and data visualization.</p>
+      <h3>Month 2: Applied Probability & Statistics</h3>
+      <p>Cover EDA, probability, hypothesis testing, and A/B testing.</p>
+      <h3>Month 3 & 4: Machine Learning</h3>
+      <p>Dive into supervised, unsupervised learning, and advanced topics.</p>
+      <a href="assets/slides" class="btn">View Lecture Slides</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Intro to Data Science. All rights reserved.</p>
+  </footer>
+</body>
+</html>
